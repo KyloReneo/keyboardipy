@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import ttk
 
 key = tk.Tk()  # key window name
-key.title('vKeyboard By SaEeD :)')  # title Name
+key.title('vKeyboard By kylo :)')  # title Name
 
 # key.iconbitmap('add icon link And Directory name')    # icon add
 
